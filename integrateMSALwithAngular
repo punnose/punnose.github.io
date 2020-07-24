@@ -1,1 +1,2 @@
 
+Demonstrates how to use MSAL Angular to login, logout, protect a route, and acquire an access token for a protected resource such as Microsoft Graph
